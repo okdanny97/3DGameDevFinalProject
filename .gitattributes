@@ -1,0 +1,2 @@
+*BuiltData* filter=lfs diff=lfs merge=lfs -text
+Content/FirstPersonBP/Maps/ALevel_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
