@@ -12,3 +12,5 @@ Saved
 *.xcworkspace
 Content/KiteDemo
 Content/FirstPersonBP/Maps/ALevel_BuiltData.uasset
+Content/RLevel_BuiltData.uasset
+Content/MountainMeshTake3.uasset
